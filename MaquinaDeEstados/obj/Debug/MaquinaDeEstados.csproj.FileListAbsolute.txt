@@ -1,0 +1,13 @@
+c:\users\antoanne pontes\documents\visual studio 2013\Projects\MaquinaDeEstados\MaquinaDeEstados\bin\Debug\MaquinaDeEstados.exe.config
+c:\users\antoanne pontes\documents\visual studio 2013\Projects\MaquinaDeEstados\MaquinaDeEstados\bin\Debug\MaquinaDeEstados.exe
+c:\users\antoanne pontes\documents\visual studio 2013\Projects\MaquinaDeEstados\MaquinaDeEstados\bin\Debug\MaquinaDeEstados.pdb
+c:\users\antoanne pontes\documents\visual studio 2013\Projects\MaquinaDeEstados\MaquinaDeEstados\obj\Debug\MaquinaDeEstados.csprojResolveAssemblyReference.cache
+c:\users\antoanne pontes\documents\visual studio 2013\Projects\MaquinaDeEstados\MaquinaDeEstados\obj\Debug\MaquinaDeEstados.exe
+c:\users\antoanne pontes\documents\visual studio 2013\Projects\MaquinaDeEstados\MaquinaDeEstados\obj\Debug\MaquinaDeEstados.pdb
+C:\Users\Jão\Downloads\MaquinaDeEstados\MaquinaDeEstados\bin\Debug\MaquinaDeEstados.exe.config
+C:\Users\Jão\Downloads\MaquinaDeEstados\MaquinaDeEstados\obj\Debug\MaquinaDeEstados.exe
+C:\Users\Jão\Downloads\MaquinaDeEstados\MaquinaDeEstados\obj\Debug\MaquinaDeEstados.pdb
+C:\Users\Jão\Downloads\MaquinaDeEstados\MaquinaDeEstados\bin\Debug\MaquinaDeEstados.exe
+C:\Users\Jão\Downloads\MaquinaDeEstados\MaquinaDeEstados\bin\Debug\MaquinaDeEstados.pdb
+C:\Users\Jão\Downloads\MaquinaDeEstados\MaquinaDeEstados\obj\Debug\MaquinaDeEstados.csprojResolveAssemblyReference.cache
+C:\Users\Jão\Downloads\MaquinaDeEstados\MaquinaDeEstados\bin\Debug\JoaoGabriel_JoaoMatera_MaquinaDeEstados.exe.config
